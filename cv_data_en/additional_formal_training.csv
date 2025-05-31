@@ -1,0 +1,18 @@
+id,start_date,end_date,main_topic,organization,extra_info,info_link,code_link
+1,2015,,*Vocational course:* Computer assembly and maintenance,Serviço Nacional de Aprendizagem Comercial,(workload: 200h),,
+2,2021,,*Extension course:* Estimating plant growth and productivity using remote sensing,"Programa de Pós Graduação em Produção Vegetal, UESC",(workload: 30h),,
+3,2021,,*Minicourse:* Image analysis in the Fourier domain,Universidade Federal do Rio Grande do Sul (UFRGS),(workload: 10h),,
+4,2021,,*Course:* Introduction to SQL for statisticians,Superintendência de Estudos Econômicos e Sociais da Bahia (SEI),(workload: 3h),,
+5,2021,,*Extension course:* Introduction to the statistical computing environment R,"Laboratório de Estatística Computacional, UESC",(workload: 20h),,
+6,2022,,*Extension course:* Programming for WEB applications with Javascript and SQL,"DCET, UESC",(workload: 30h),,https://github.com/jpssrocha/simple-crud-app
+7,2022,,*Training course:* Backend development with NodeJS,Tecno Jr,(workload: 30h),,https://github.com/jpssrocha/simple-classroom
+8,2022,,*Training course:* Fire Brigade training,"Coordenação de Desenvolvimento de Recursos Humanos, UESC",(workload: 16h),,
+9,2022,,*Professional Course:* Python,"CEPEDI, Ilhéus",(workload: 40h),,https://github.com/jpssrocha/cepedi-final-py-project
+10,2022,,*Professional Course:* Data analysis with Python,"CEPEDI, Ilhéus",(workload: 42h),,https://github.com/jpssrocha/cepedi-final-data-project
+11,2023,,*Course:* Image processing with Python,"CEPEDI, Ilhéus",(workload: 20h),,
+12,2023,,*Course:* Data science with Python,"CEPEDI, Ilhéus",(workload: 20h),,
+13,2023,,*Course:* Parallelism in multicore architectures,"CEPEDI, Ilhéus",(workload: 20h),,
+14,2024,,*Course:* Artificial Intelligence: Machine Learning and Image Processing,CEPEDI e Flex,(workload: 320h),,
+15,2025,,*Minicourse:* Introduction to containers for HPC and AI,LNCC,(workload: 8h),,
+16,2025,,*Workshop:* Data assimilation by neural networks,LNCC,(workload: 8h),,
+17,2025,,*Minicourse:* Machine learning informed by physics,LNCC,(workload: 4h),,

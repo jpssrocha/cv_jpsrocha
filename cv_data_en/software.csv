@@ -1,0 +1,19 @@
+id,tool_type,tool_name,proficiency_level
+1,Language,Python,Proficient
+2,Language,C/C++,Intermediate
+3,Language,Javascript,Intermediate
+4,Language,LaTex/Typst,Intermediate
+5,Language,SQL,Intermediate
+6,Language,R,Basic
+7,Language,Java,Basic
+8,Language,HTML/CSS,Basic
+9,Python library,Numpy/Scipy,Proficient
+10,Python library,Pandas,Proficient
+11,Python library,Matplotlib,Intermediate
+12,Python library,ScikitLearn/Pytorch,Basic
+13,Program,Terminal Linux/Unix,Proficient
+14,Program,Neovim/Helix,Proficient
+15,Program,conda/mamba/uv,Intermediate
+16,Program,git,Intermediate
+17,DBMS,SQLite,Basic
+18,DBMS,Postgres,Basic

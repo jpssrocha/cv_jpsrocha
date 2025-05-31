@@ -1,0 +1,20 @@
+id,start_date,end_date,main_topic,organization,extra_info,info_link,code_link
+1,2015,,*Curso profissionalizante:* Montagem e manutenção de computadores,Serviço Nacional de Aprendizagem Comercial,(carga horária: 200h),,
+2,2021,,*Curso de extensão:* Estimativa de crescimento e produtividade em plantas por sensoriamento remoto,"Programa de Pós Graduação em Produção Vegetal, UESC",(carga horária: 30h),,
+3,2021,,*Minicurso:* Análise de imagens no domı́nio de Fourier,Universidade Federal do Rio Grande do Sul (UFRGS),(carga horária: 10h),,
+4,2021,,*Minicurso:* Introdução ao SQL para estatı́sticos,Superintendência de Estudos Econômicos e Sociais da Bahia (SEI),(carga horária: 3h),,
+5,2021,,*Curso de extensão:* Introdução ao ambiente computacional estatı́stico R,"Laboratório de Estatística Computacional, UESC","(carga horária:
+20h)",,
+6,2022,,Curso de extensão: Programação para aplicações WEB com Javascript e SQL,"DCET, UESC","(carga horária:
+30h)",,https://github.com/jpssrocha/simple-crud-app
+7,2022,,*Curso de capacitação:* Desenvolvimento Backend com NodeJS,Tecno Jr,(carga horária: 30h),,https://github.com/jpssrocha/simple-classroom
+8,2022,,*Curso de capacitação:* Treinamento de Brigada de Incêndio,"Coordenação de Desenvolvimento de Recursos Humanos, UESC",(carga horária: 16h),,
+9,2022,,Curso Profissionalizante: Python,"CEPEDI, Ilhéus",(carga horária: 40h),,https://github.com/jpssrocha/cepedi-final-py-project
+10,2022,,*Curso Profissionalizante:* Análise de dados com Python,"CEPEDI, Ilhéus",(carga horária: 42h),,https://github.com/jpssrocha/cepedi-final-data-project
+11,2023,,*Curso:* Processamento de imagens com Python,"CEPEDI, Ilhéus",(carga horária: 20h),,
+12,2023,,*Curso:* Ciência de dados com Python,"CEPEDI, Ilhéus",(carga horária: 20h),,
+13,2023,,*Curso:* Paralelismo em arquiteturas multicore,"CEPEDI, Ilhéus",(carga horária: 20h),,
+14,2024,,*Curso:* Inteligência artificial: Machine Learning e Image Processing,CEPEDI e Flex,(carga horária: 320h),,
+15,2025,,*Minicurso:* Introdução a containers para HPC e IA,LNCC,(carga horária: 8h),,
+16,2025,,*Minicurso:* Assimilação de dados por redes neurais,LNCC,(carga horária: 8h),,
+17,2025,,*Minicurso:* Aprendizagem de máquina informado por fı́sica,LNCC,(carga horária: 4h),,

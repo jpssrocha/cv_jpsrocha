@@ -1,0 +1,13 @@
+id,start_date,end_date,main_topic,organization,extra_info,info_link,code_link
+7,5-2019,12-2023,*Software:* Wild Duck Pipeline,Laboratório de Astrofı́sica Teórica e Observacional (LATO),Descrição: Pipeline de dados para a realização do processamento automático de imagens astronômicas dos telescópios administrados pelo Laboratório Nacional de Astrofísica (Supervisor: Dr. Francisco Maia),,https://github.com/jpssrocha/WildDuckPipe
+6,2023,,*Software:* gaia getter,LATO,Descrição: Ferramenta/Biblioteca para se conectar facilmente à API da missão gaia baixar catálogos de dados e aplicar as correções necessárias via o Python.,,https://github.com/jpssrocha/gaia_getter
+5,2023,,*Software:* psf tool,LATO,"Descrição: Ferramenta CLI simples implementando fotometria via ajuste de PSF em
+    imagens astronômicas em paralelo usando multiprocessing do Python, com a 
+    finalidade de tornar acessível o paralelismo para colaboradores.",,https://github.com/jpssrocha/psf_tool
+4,2023,,*Software:* target selector,LATO,"Descrição: Ferramenta de terminal para facilitar a seleção de aglomerados 
+    estelares para observacões astronômicas baseado em critérios de seleção.
+",,https://github.com/jpssrocha/target_selector
+3,12-2020,2-2021,*Processamento e Visualização de dados:* Obtenção e visualização das taxas de testagem do COVID-19 na Bahia.,Equipe de resposta ao COVID-19 da UESC.,"Descrição: Obtenção do conjunto de dados e criação de scripts para a limpeza, transformação e criação de visualização das taxas de testagem do COVID-19.(Supervisor: Dr. Gesil Sampaio)
+",,https://github.com/jpssrocha/covid-test-ba
+2,1-2020,12-2022,*Automação:* Automação da infraestrutura da cúpula do observatório astronômico.,Observatório Astronômico da UESC,Supervisor: Dr. Jules Soares,,
+1,10-2019,2-2020,*Aulas ministradas:* Introdução à programação usando Python,Aos colegas do curso de Fı́sica da UESC,,,

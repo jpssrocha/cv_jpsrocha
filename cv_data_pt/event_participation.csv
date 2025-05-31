@@ -1,0 +1,11 @@
+id,start_date,end_date,main_topic,organization,extra_info,info_link,code_link
+7,5-2025,,INRIA-LNCC-UDEC Workshop on Computational Fluids: Challenges and New Trends,LNCC/INRIA,,,
+6,1-2025,3-2025,XVII Escola do Supercomputador Santos Dumont,LNCC,,,
+5,1-2025,,XVIII Encontro Acadêmico de Modelagem Computacional,PG-LNCC,,,
+4,12-2024,,1° Workshop do Instituto de Inteligência Artificial,LNCC,"Apresentação e primeira reunião de
+colaboração do instituto de inteligência artificial",,
+3,4-2024,,INRIA-Brasil Workshop on Artificial Intelligence and Applications,LNCC/INRIA,,,
+2,1-2023,,Jornada em Ciência de Dados,LNCC,"4 minicursos na área de ciência de dados ministrados no
+programa de verão do LNCC",,
+1,8-2020,,*Hakintec 4.0:* Hackaton Online para a implementação de soluções para a industria 4.0,Instituto Empresarial de Incubação e Inovação Tecnológica,"Descrição: Foi desenvolvida uma solução com visão computacional para fazer checagens de qualidade simples
+numa placa de circuitos por fotos",,https://github.com/jpssrocha/ACI-Hakintec
