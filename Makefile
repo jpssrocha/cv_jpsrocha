@@ -14,7 +14,9 @@ all: ./cv.pdf ./cv_en.pdf
 ./cv_data_en/%.csv: ./cv_data_pt/%.csv
 	uv run translation_script.py
 
-# List the files used for the CV creation
-.PHONY: list-files
-list-files:
-	$(info VAR="$(FILES)")
+
+.PHONY: upload
+upload:
+	git add -A
+	git commit -m "Uploading last version"
+	git push
